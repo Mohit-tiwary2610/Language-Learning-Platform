@@ -1,24 +1,27 @@
-Language Learning App 📚
-Welcome to the Language Learning App repository! This is a full-stack app which uses spaced repetition to help users learn a new language. The user can create an account, choose a language to learn, and then start learning. The app will track the user's progress and show them their score.
+**Language Learning Platform** <br>
+<hr>
 
-Features
-Word of the Day
-Learn words
-Review (True or false, multiple-choice, matching pairs)
-Learned words/reviewed words progress overtime (calendar/line graph view)
-Profile customisation
-Settings customisation
+This is a full-stack app which uses to help users learn a new language. The user can create an account, choose a language to learn, and then start learning. The app will track the user's progress and show them their score.<br>
 
-This project has been created using:
-React
-MongoDB/Mongoose
-Express.js
-Javascript
-Node.js
-HTML/CSS
-APIs
-Material UI
-React Bootstrap
+Features<br>
+<hr>
+ • Developed a web application where users can learn new languages.<br>
+ • Registration and login with secure password hashing.<br>
+ • Users can create and update their profiles with personal information and language preferences.<br>
+ • Provide structured language content, exercises, and quizzes.<br>
+ • Display progress bars and statistics to help users visualize their language learning journey.<br>
 
-Author
+<br>Techstack  <br>
+<hr>
+React<br>
+MongoDB<br>
+Express.js<br>
+Javascript<br>
+Node.js<br>
+HTML/CSS<br>
+APIs<br>
+Material UI<br>
+React Bootstrap<br>
+<hr>
+Author<br>
 Github: @Mohit-tiwary2610
